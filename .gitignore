@@ -1,0 +1,4 @@
+.venv/
+byol_from_scratch/__pycache__/
+data/
+experiments/__pycache__/
